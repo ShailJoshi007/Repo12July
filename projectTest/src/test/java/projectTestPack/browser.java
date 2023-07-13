@@ -6,6 +6,7 @@ public class browser {
 @Test
 	public void mi()
 	{
+		System.out.println("Hi Everyone");
 		System.out.println("Hello from Local to gitr to Jenkins");
 	}
 //Pulling the data to Local

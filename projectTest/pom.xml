@@ -3,7 +3,13 @@
   <groupId>com.shail.project</groupId>
   <artifactId>projectTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <dependencies>
+  
+ <properties>
+	  <maven.compiler.target>1.8</maven.compiler.target> 
+	  <maven.compiler.source>1.8</maven.compiler.source> 
+ </properties> 
+  
+ <dependencies>
   
      <!-- https://mvnrepository.com/artifact/org.seleniumhq.selenium/selenium-java -->
 <dependency>
