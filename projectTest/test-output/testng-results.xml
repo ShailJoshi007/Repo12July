@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-13T10:19:31 IST" name="Default suite" finished-at="2023-07-13T10:19:31 IST" duration-ms="77">
+  <suite started-at="2023-07-13T11:11:00 IST" name="Default suite" finished-at="2023-07-13T11:11:00 IST" duration-ms="57">
     <groups>
     </groups>
-    <test started-at="2023-07-13T10:19:31 IST" name="Default test" finished-at="2023-07-13T10:19:31 IST" duration-ms="77">
+    <test started-at="2023-07-13T11:11:00 IST" name="Default test" finished-at="2023-07-13T11:11:00 IST" duration-ms="57">
       <class name="projectTestPack.browser">
-        <test-method signature="mi()[pri:0, instance:projectTestPack.browser@d4342c2]" started-at="2023-07-13T10:19:31 IST" name="mi" finished-at="2023-07-13T10:19:31 IST" duration-ms="16" status="PASS">
+        <test-method signature="mi()[pri:0, instance:projectTestPack.browser@d4342c2]" started-at="2023-07-13T11:11:00 IST" name="mi" finished-at="2023-07-13T11:11:00 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mi -->
